@@ -1,0 +1,4 @@
+Model,Architecture,Test Images,Test Instances,Precision,Recall,mAP50,mAP50-95,Inference (ms),F1
+YOLOv8n,CNN-based YOLO,67,161,79.88,66.6,76.84,48.44,11.6,72.64
+YOLO11n,CNN-based YOLO,67,161,84.96,66.67,78.05,49.31,12.2,74.71
+DETR-R50,CNN + Transformer,67,161,48.46,78.26,68.5,40.6,,59.86

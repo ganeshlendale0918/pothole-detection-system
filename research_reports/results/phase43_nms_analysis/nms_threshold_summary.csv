@@ -1,0 +1,4 @@
+NMS_IoU,Images,GT,Predictions,TP,FP,FN,Precision_percent,Recall_percent,F1_percent,Misses_on_potholes294
+0.5,66,187,184,154,30,33,83.7,82.35,83.02,4
+0.7,66,187,187,155,32,32,82.89,82.89,82.89,4
+0.9,66,187,249,155,94,32,62.25,82.89,71.1,4

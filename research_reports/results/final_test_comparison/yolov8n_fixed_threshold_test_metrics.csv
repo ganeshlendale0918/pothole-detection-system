@@ -1,0 +1,2 @@
+Model,Images,GT,Predictions,Confidence,Matching_IoU,NMS_IoU,TP,FP,FN,Precision_pct,Recall_pct,F1_pct
+YOLOv8n_640,67,161,143,0.4,0.5,0.7,107,36,54,74.82517482517483,66.45962732919256,70.39473684210526

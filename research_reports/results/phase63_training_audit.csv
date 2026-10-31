@@ -1,0 +1,5 @@
+model,training_log_exists,best_checkpoint_exists,last_checkpoint_exists,logged_epochs,best_epoch_by_mAP50_95,best_val_mAP50,best_val_mAP50_95
+YOLOv8n_640,True,True,True,43,33,0.81856,0.53606
+YOLO11n_640,True,True,True,46,36,0.82366,0.54597
+YOLO11n_800,True,True,True,50,49,0.86971,0.58671
+YOLO11n_960,True,False,False,50,49,0.81718,0.53297

@@ -1,0 +1,7 @@
+Model,Size,GT_objects,Detected_TP,Missed_FN,Recall_%
+YOLO11n_640,Small,54,22,32,40.74
+YOLO11n_640,Medium,48,32,16,66.67
+YOLO11n_640,Large,59,53,6,89.83
+YOLO11n_800,Small,54,26,28,48.15
+YOLO11n_800,Medium,48,35,13,72.92
+YOLO11n_800,Large,59,52,7,88.14

@@ -1,0 +1,3 @@
+Model,Image_size,Test_images,GT,TP,FP,FN,Precision_%,Recall_%,F1_%,Confidence,NMS_IoU,Matching_IoU,Matching_method
+YOLO11n_640,640,67,161,110,20,51,84.62,68.32,75.6,0.4,0.7,0.5,descending confidence
+YOLO11n_800,800,67,161,114,22,47,83.82,70.81,76.77,0.4,0.7,0.5,descending confidence

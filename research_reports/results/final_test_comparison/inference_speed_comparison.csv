@@ -1,0 +1,3 @@
+Model,Image_size,Images_timed,Preprocess_ms,Inference_ms,Postprocess_ms,Total_ms_per_image,Approx_FPS
+YOLO11n_640,640,67,3.67,28.9,3.03,35.61,28.08
+YOLO11n_800,800,67,5.17,27.93,3.09,36.2,27.63

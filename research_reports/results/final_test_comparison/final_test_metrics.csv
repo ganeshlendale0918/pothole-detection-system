@@ -1,0 +1,3 @@
+Model,Image_size,Confidence,TP,FP,FN,Precision_%,Recall_%,F1_%
+YOLO11n_640,640,0.4,107,23,54,82.31,66.46,73.54
+YOLO11n_800,800,0.4,113,18,48,86.26,70.19,77.4

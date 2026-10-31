@@ -1,0 +1,13 @@
+{
+  "Model": "DETR_R50_fresh",
+  "Test_images": 67,
+  "Runs": 3,
+  "Parameters": 41501638,
+  "GFLOPs": null,
+  "Mean_total_ms_per_image": 157.306,
+  "Median_total_ms_per_image": 157.024,
+  "Approx_FPS": 6.53,
+  "Peak_GPU_memory_MB": 544.07,
+  "Timing_method": "Sequential batch-1 inference; includes PIL image loading, processor preprocessing, model forward pass, and box postprocessing",
+  "Postprocess_confidence": 0.001
+}

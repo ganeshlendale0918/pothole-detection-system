@@ -1,0 +1,12 @@
+{
+  "model": "/content/drive/MyDrive/Colab_project_working/pothhole_project/experiments/A4_yolo11n_img800/weights/best.pt",
+  "split": "validation",
+  "image_size": 800,
+  "confidence_threshold": 0.4,
+  "matching_iou": 0.5,
+  "nms_thresholds": [
+    0.5,
+    0.7,
+    0.9
+  ]
+}

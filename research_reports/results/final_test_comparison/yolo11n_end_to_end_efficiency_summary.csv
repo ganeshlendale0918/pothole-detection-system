@@ -1,0 +1,3 @@
+Model,Image_size,Test_images,Runs,Parameters,GFLOPs,Mean_total_ms_per_image,Median_total_ms_per_image,Approx_FPS,Peak_GPU_memory_MB,Timing_method
+YOLO11n_640,640,67,3,2590035,6.499584,35.926,37.808,28.53,1719.94,End-to-end Ultralytics predict; includes preprocessing and postprocessing
+YOLO11n_800,800,67,3,2590035,10.2096,34.704,34.012,28.85,2809.32,End-to-end Ultralytics predict; includes preprocessing and postprocessing

@@ -1,0 +1,9 @@
+confidence_threshold,missed_gt_objects,with_best_candidate_score_ge_threshold,with_iou_ge_050_and_best_score_ge_threshold
+0.1,34,19,14
+0.15,34,18,13
+0.2,34,13,8
+0.25,34,12,7
+0.3,34,9,4
+0.35,34,7,3
+0.4,34,6,2
+0.45,34,4,0

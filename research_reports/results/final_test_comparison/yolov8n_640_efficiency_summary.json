@@ -1,0 +1,13 @@
+{
+  "Model": "YOLOv8n_640",
+  "Image_size": 640,
+  "Test_images": 67,
+  "Runs": 3,
+  "Parameters": 3011043,
+  "GFLOPs": 8.1916928,
+  "Mean_total_ms_per_image": 33.552,
+  "Median_total_ms_per_image": 28.379,
+  "Approx_FPS": 31.45,
+  "Peak_GPU_memory_MB": 1766.36,
+  "Timing_method": "End-to-end Ultralytics predict; includes preprocessing and postprocessing"
+}

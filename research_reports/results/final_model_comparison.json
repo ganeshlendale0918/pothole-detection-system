@@ -1,0 +1,54 @@
+{
+    "models": [
+        {
+            "Model": "YOLOv8n",
+            "Architecture": "CNN-based YOLO",
+            "Test Images": 67,
+            "Test Instances": 161,
+            "Precision": 0.798846,
+            "Recall": 0.666004,
+            "mAP50": 0.768402,
+            "mAP50-95": 0.484404,
+            "Inference (ms)": 11.6
+        },
+        {
+            "Model": "YOLO11n",
+            "Architecture": "CNN-based YOLO",
+            "Test Images": 67,
+            "Test Instances": 161,
+            "Precision": 0.849615,
+            "Recall": 0.666732,
+            "mAP50": 0.780527,
+            "mAP50-95": 0.493083,
+            "Inference (ms)": 12.2
+        },
+        {
+            "Model": "DETR-R50",
+            "Architecture": "CNN + Transformer",
+            "Test Images": 67,
+            "Test Instances": 161,
+            "Precision": 0.4846,
+            "Recall": 0.7826,
+            "mAP50": 0.685,
+            "mAP50-95": 0.406,
+            "Inference (ms)": null
+        }
+    ],
+    "ranking": [
+        {
+            "Model": "YOLO11n",
+            "Overall Accuracy Score": 70.74,
+            "Rank": 1
+        },
+        {
+            "Model": "YOLOv8n",
+            "Overall Accuracy Score": 68.88,
+            "Rank": 2
+        },
+        {
+            "Model": "DETR-R50",
+            "Overall Accuracy Score": 59.14,
+            "Rank": 3
+        }
+    ]
+}

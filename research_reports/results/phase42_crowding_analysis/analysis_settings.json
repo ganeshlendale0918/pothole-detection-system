@@ -1,0 +1,12 @@
+{
+  "confidence_threshold": 0.4,
+  "nms_iou": 0.7,
+  "matching_iou": 0.5,
+  "crowding_definition": "GT boxes are crowded when pairwise IoU > 0.01 or center distance <= half the sum of box diagonals.",
+  "split": "validation",
+  "models": {
+    "YOLO11n_640": 640,
+    "YOLO11n_800": 800,
+    "YOLO11n_960": 960
+  }
+}

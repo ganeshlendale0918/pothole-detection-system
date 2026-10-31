@@ -1,0 +1,5 @@
+Model,Image_size,Confidence,Test_images,Ground_truth,TP,FP,FN,Precision_%,Recall_%,F1_%,Preprocess_ms,Inference_ms,Postprocess_ms,Total_stage_ms,Approx_FPS
+YOLO11n_800,800.0,0.4,67,161,113,18,48,86.26,70.19,77.4,6.1,33.63,3.68,43.41,23.03
+YOLO11n_640,640.0,0.4,67,161,107,23,54,82.31,66.46,73.54,4.82,34.74,3.96,43.46,23.01
+YOLOv8n_640,640.0,0.4,67,161,107,36,54,74.83,66.46,70.39,,,,,
+DETR_R50_fresh,,0.4,67,161,97,312,64,23.72,60.25,34.04,,,,,

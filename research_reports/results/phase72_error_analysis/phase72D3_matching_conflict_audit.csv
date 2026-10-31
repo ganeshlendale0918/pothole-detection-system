@@ -1,0 +1,69 @@
+image,gt_index,threshold,gt_matched,best_iou,candidate_confidence,prediction_index,candidate_status,candidate_matched_gt,interpretation
+potholes182.png,0,0.25,False,0.39642711550030574,0.6564344167709351,0,FP,,Partial overlap; possible localization issue
+potholes182.png,0,0.45,False,0.39642711550030574,0.6564344167709351,0,FP,,Partial overlap; possible localization issue
+potholes2.png,1,0.25,False,0.0,0.9070857167243958,0,TP,0.0,No candidate with IoU >= 0.10
+potholes2.png,1,0.45,False,0.0,0.9070857167243958,0,TP,0.0,No candidate with IoU >= 0.10
+potholes203.png,2,0.25,False,0.0,0.9503926038742064,0,TP,1.0,No candidate with IoU >= 0.10
+potholes203.png,2,0.45,False,0.0,0.9503926038742064,0,TP,1.0,No candidate with IoU >= 0.10
+potholes243.png,0,0.25,False,0.19156172499935437,0.7195612788200378,1,FP,,Partial overlap; possible localization issue
+potholes243.png,0,0.45,False,0.19156172499935437,0.7195612788200378,1,FP,,Partial overlap; possible localization issue
+potholes294.png,10,0.25,True,0.8078423455070162,0.2976365983486175,17,TP,10.0,GT matched by official evaluation
+potholes294.png,10,0.45,False,0.2943766449094245,0.6301482915878296,13,FP,,Partial overlap; possible localization issue
+potholes294.png,14,0.25,False,0.0,0.918655812740326,0,TP,0.0,No candidate with IoU >= 0.10
+potholes294.png,14,0.45,False,0.0,0.918655812740326,0,TP,0.0,No candidate with IoU >= 0.10
+potholes294.png,15,0.25,False,0.006445668734198967,0.3572757840156555,16,TP,16.0,No candidate with IoU >= 0.10
+potholes294.png,15,0.45,False,0.0,0.918655812740326,0,TP,0.0,No candidate with IoU >= 0.10
+potholes294.png,16,0.25,True,0.8856851801996558,0.3572757840156555,16,TP,16.0,GT matched by official evaluation
+potholes294.png,16,0.45,False,0.0,0.918655812740326,0,TP,0.0,No candidate with IoU >= 0.10
+potholes33.png,1,0.25,False,0.40118222382972735,0.8631067872047424,1,FP,,Partial overlap; possible localization issue
+potholes33.png,1,0.45,False,0.40118222382972735,0.8631067872047424,1,FP,,Partial overlap; possible localization issue
+potholes345.png,2,0.25,False,0.0,0.8908743858337402,0,TP,0.0,No candidate with IoU >= 0.10
+potholes345.png,2,0.45,False,0.0,0.8908743858337402,0,TP,0.0,No candidate with IoU >= 0.10
+potholes389.png,1,0.25,False,0.0,0.9310458898544312,0,TP,0.0,No candidate with IoU >= 0.10
+potholes389.png,1,0.45,False,0.0,0.9310458898544312,0,TP,0.0,No candidate with IoU >= 0.10
+potholes425.png,2,0.25,False,0.47986764222743983,0.8103773593902588,0,FP,,Partial overlap; possible localization issue
+potholes425.png,2,0.45,False,0.47986764222743983,0.8103773593902588,0,FP,,Partial overlap; possible localization issue
+potholes448.png,1,0.25,False,0.0,0.9227306246757508,0,TP,0.0,No candidate with IoU >= 0.10
+potholes448.png,1,0.45,False,0.0,0.9227306246757508,0,TP,0.0,No candidate with IoU >= 0.10
+potholes45.png,1,0.25,False,0.0,0.8935402035713196,0,TP,4.0,No candidate with IoU >= 0.10
+potholes45.png,1,0.45,False,0.0,0.8935402035713196,0,TP,4.0,No candidate with IoU >= 0.10
+potholes45.png,2,0.25,False,0.0,0.8935402035713196,0,TP,4.0,No candidate with IoU >= 0.10
+potholes45.png,2,0.45,False,0.0,0.8935402035713196,0,TP,4.0,No candidate with IoU >= 0.10
+potholes463.png,4,0.25,False,0.0,0.9098814129829408,0,FP,,No candidate with IoU >= 0.10
+potholes463.png,4,0.45,False,0.0,0.9098814129829408,0,FP,,No candidate with IoU >= 0.10
+potholes468.png,1,0.25,False,0.0010458406488522776,0.7169495224952698,6,TP,0.0,No candidate with IoU >= 0.10
+potholes468.png,1,0.45,False,0.0010458406488522776,0.7169495224952698,6,TP,0.0,No candidate with IoU >= 0.10
+potholes493.png,1,0.25,False,0.0,0.7189545035362244,0,TP,0.0,No candidate with IoU >= 0.10
+potholes493.png,1,0.45,False,0.0,0.7189545035362244,0,TP,0.0,No candidate with IoU >= 0.10
+potholes520.png,2,0.25,False,0.0,0.8849610686302185,0,TP,6.0,No candidate with IoU >= 0.10
+potholes520.png,2,0.45,False,0.0,0.8849610686302185,0,TP,6.0,No candidate with IoU >= 0.10
+potholes520.png,15,0.25,True,0.8823561361931879,0.3082360029220581,24,TP,15.0,GT matched by official evaluation
+potholes520.png,15,0.45,False,0.01621086947635181,0.7204065322875977,13,TP,12.0,No candidate with IoU >= 0.10
+potholes53.png,1,0.25,False,0.2688502699408364,0.3287135362625122,4,FP,,Partial overlap; possible localization issue
+potholes53.png,1,0.45,False,0.18736665841750996,0.738711416721344,1,TP,0.0,Partial overlap; possible localization issue
+potholes53.png,4,0.25,True,0.8334617297984711,0.4228048622608185,3,TP,4.0,GT matched by official evaluation
+potholes53.png,4,0.45,False,0.0,0.8749804496765137,0,TP,2.0,No candidate with IoU >= 0.10
+potholes559.png,1,0.25,False,0.10332935117887183,0.5886067748069763,0,TP,0.0,Partial overlap; possible localization issue
+potholes559.png,1,0.45,False,0.10332935117887183,0.5886067748069763,0,TP,0.0,Partial overlap; possible localization issue
+potholes56.png,1,0.25,True,0.502509201097155,0.2560237050056457,1,TP,1.0,GT matched by official evaluation
+potholes56.png,1,0.45,False,0.0,0.9171666502952576,0,TP,0.0,No candidate with IoU >= 0.10
+potholes56.png,2,0.25,True,0.5699729847945337,0.2541309893131256,2,TP,2.0,GT matched by official evaluation
+potholes56.png,2,0.45,False,0.0,0.9171666502952576,0,TP,0.0,No candidate with IoU >= 0.10
+potholes590.png,1,0.25,False,0.43432595456908424,0.818146288394928,0,FP,,Partial overlap; possible localization issue
+potholes590.png,1,0.45,False,0.43432595456908424,0.818146288394928,0,FP,,Partial overlap; possible localization issue
+potholes611.png,0,0.25,False,0.11296073666520633,0.4310585558414459,1,FP,,Partial overlap; possible localization issue
+potholes611.png,0,0.45,False,0.0,0.8201450109481812,0,TP,1.0,No candidate with IoU >= 0.10
+potholes611.png,2,0.25,False,0.39975327114414566,0.4310585558414459,1,FP,,Partial overlap; possible localization issue
+potholes611.png,2,0.45,False,0.0,0.8201450109481812,0,TP,1.0,No candidate with IoU >= 0.10
+potholes624.png,1,0.25,True,0.6421470544564358,0.4176643490791321,3,TP,1.0,GT matched by official evaluation
+potholes624.png,1,0.45,False,0.3973984295343914,0.5122865438461304,2,FP,,Partial overlap; possible localization issue
+potholes624.png,3,0.25,False,0.14483639532655232,0.6424723267555237,1,TP,2.0,Partial overlap; possible localization issue
+potholes624.png,3,0.45,False,0.14483639532655232,0.6424723267555237,1,TP,2.0,Partial overlap; possible localization issue
+potholes65.png,0,0.25,False,0.338167421595364,0.4472256898880005,1,FP,,Partial overlap; possible localization issue
+potholes65.png,0,0.45,False,0.04461340270700896,0.5714558959007263,0,FP,,No candidate with IoU >= 0.10
+potholes88.png,1,0.25,False,0.2602250249053929,0.7926232814788818,1,FP,,Partial overlap; possible localization issue
+potholes88.png,1,0.45,False,0.2602250249053929,0.7926232814788818,1,FP,,Partial overlap; possible localization issue
+potholes95.png,2,0.25,False,0.15870297236483097,0.5931758880615234,2,FP,,Partial overlap; possible localization issue
+potholes95.png,2,0.45,False,0.15870297236483097,0.5931758880615234,2,FP,,Partial overlap; possible localization issue
+potholes95.png,3,0.25,False,0.049343624041438924,0.5931758880615234,2,FP,,No candidate with IoU >= 0.10
+potholes95.png,3,0.45,False,0.049343624041438924,0.5931758880615234,2,FP,,No candidate with IoU >= 0.10

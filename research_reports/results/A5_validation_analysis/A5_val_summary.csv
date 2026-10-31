@@ -1,0 +1,2 @@
+Model,Image_size,Images,GT,TP,FP,FN,Precision_pct,Recall_pct,F1_pct,Confidence,NMS_IoU,Matching_IoU
+YOLO11n_960,960,66,187,144,38,43,79.12,77.01,78.05,0.4,0.7,0.5

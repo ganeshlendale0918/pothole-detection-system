@@ -1,0 +1,4 @@
+model,imgsz,test_images,precision,recall,mAP50,mAP50_95,evaluation_dir
+YOLOv8n_640,640,67,0.7988460417230168,0.6660052667976473,0.7684021827571268,0.484403976874331,/content/drive/MyDrive/Colab_project_working/pothhole_project/results/phase64_test_evaluation/YOLOv8n_640
+YOLO11n_640,640,67,0.8496145559843504,0.6667316524555655,0.7805271461143359,0.4930828637780472,/content/drive/MyDrive/Colab_project_working/pothhole_project/results/phase64_test_evaluation/YOLO11n_640
+YOLO11n_800,800,67,0.865369000449748,0.6894409937888198,0.8108931070101362,0.5309359852265325,/content/drive/MyDrive/Colab_project_working/pothhole_project/results/phase64_test_evaluation/YOLO11n_800

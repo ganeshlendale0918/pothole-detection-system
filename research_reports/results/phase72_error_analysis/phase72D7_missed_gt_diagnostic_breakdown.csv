@@ -1,0 +1,35 @@
+image,gt_index,best_prediction_index,best_confidence,best_iou,official_status,official_matched_gt_index,diagnostic_category,confidence_band
+potholes182.png,0,0,0.6564344167709351,0.3964271155003057,FP,,"High-confidence candidate, IoU below 0.50",0.45_or_above
+potholes2.png,1,2,0.0971035584807396,0.7027943510419123,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes203.png,2,2,0.1877496689558029,0.8771978791104632,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes243.png,0,3,0.0482470504939556,0.1962754235584796,NO_OFFICIAL_ROW,,No candidate meeting IoU 0.50,below_0.25
+potholes294.png,10,17,0.2976365983486175,0.8078423455070162,NO_OFFICIAL_ROW,,Candidate lost when threshold rose to 0.45,0.25_to_below_0.45
+potholes294.png,14,19,0.1992462873458862,0.6403715486067857,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes294.png,15,21,0.1760185658931732,0.8155738672614481,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes294.png,16,16,0.3572757840156555,0.8856851801996558,NO_OFFICIAL_ROW,,Candidate lost when threshold rose to 0.45,0.25_to_below_0.45
+potholes33.png,1,5,0.0102006159722805,0.4128560741600448,NO_OFFICIAL_ROW,,No candidate meeting IoU 0.50,below_0.25
+potholes345.png,2,4,0.1442673653364181,0.860564911114865,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes389.png,1,2,0.08826644718647,0.9193015905724068,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes425.png,2,0,0.8103773593902588,0.4798676422274398,FP,,"High-confidence candidate, IoU below 0.50",0.45_or_above
+potholes448.png,1,3,0.0446399338543415,0.5328405443648533,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes45.png,1,8,0.0296838283538818,0.6639582076924565,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes45.png,2,6,0.0729849487543106,0.6578946430201319,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes463.png,4,6,0.0549204722046852,0.6744287398642828,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes468.png,1,6,0.7169495224952698,0.0010458406488522,TP,0.0,"High-confidence candidate, IoU below 0.50",0.45_or_above
+potholes493.png,1,2,0.2051701247692108,0.819951790735859,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes520.png,2,34,0.0642061978578567,0.7293352393008434,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes520.png,15,24,0.3082360029220581,0.8823561361931879,NO_OFFICIAL_ROW,,Candidate lost when threshold rose to 0.45,0.25_to_below_0.45
+potholes53.png,1,4,0.3287135362625122,0.2688502699408364,NO_OFFICIAL_ROW,,No candidate meeting IoU 0.50,0.25_to_below_0.45
+potholes53.png,4,3,0.4228048622608185,0.8334617297984711,NO_OFFICIAL_ROW,,Candidate lost when threshold rose to 0.45,0.25_to_below_0.45
+potholes559.png,1,1,0.1807156354188919,0.7682294922771844,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes56.png,1,1,0.2560237050056457,0.502509201097155,NO_OFFICIAL_ROW,,Candidate lost when threshold rose to 0.45,0.25_to_below_0.45
+potholes56.png,2,2,0.2541309893131256,0.5699729847945337,NO_OFFICIAL_ROW,,Candidate lost when threshold rose to 0.45,0.25_to_below_0.45
+potholes590.png,1,15,0.0197464432567358,0.6482513713275994,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes611.png,0,2,0.1854129433631897,0.8893031406137396,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes611.png,2,5,0.0291178803890943,0.8960531815187512,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes624.png,1,3,0.4176643490791321,0.6421470544564358,NO_OFFICIAL_ROW,,Candidate lost when threshold rose to 0.45,0.25_to_below_0.45
+potholes624.png,3,5,0.0443721674382686,0.6407962787229146,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes65.png,0,5,0.0542061664164066,0.922964912358325,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes88.png,1,1,0.7926232814788818,0.2602250249053929,FP,,"High-confidence candidate, IoU below 0.50",0.45_or_above
+potholes95.png,2,12,0.012862367555499,0.5810755975799644,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25
+potholes95.png,3,8,0.0420041978359222,0.6424585681485991,NO_OFFICIAL_ROW,,"Good overlap, confidence below 0.25",below_0.25

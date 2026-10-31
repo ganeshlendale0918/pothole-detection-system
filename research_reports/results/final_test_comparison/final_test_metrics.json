@@ -1,0 +1,24 @@
+[
+  {
+    "Model": "YOLO11n_640",
+    "Image_size": 640,
+    "Confidence": 0.4,
+    "TP": 107,
+    "FP": 23,
+    "FN": 54,
+    "Precision_%": 82.31,
+    "Recall_%": 66.46,
+    "F1_%": 73.54
+  },
+  {
+    "Model": "YOLO11n_800",
+    "Image_size": 800,
+    "Confidence": 0.4,
+    "TP": 113,
+    "FP": 18,
+    "FN": 48,
+    "Precision_%": 86.26,
+    "Recall_%": 70.19,
+    "F1_%": 77.4
+  }
+]

@@ -1,0 +1,2 @@
+Model,Images,GT,Predictions,Confidence,Matching_IoU,TP,FP,FN,Precision_pct,Recall_pct,F1_pct
+DETR_R50,67,161,409,0.4,0.5,97,312,64,23.71638141809291,60.24844720496895,34.03508771929825

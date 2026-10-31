@@ -1,0 +1,42 @@
+# Python cache and bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.pyo
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Streamlit
+.streamlit/
+
+# Temporary uploads and outputs (keep .gitkeep)
+outputs/*
+!outputs/.gitkeep
+/tmp/
+
+# Model weights — large binary; keep models/best.pt in a local-only subfolder
+# if you want to exclude from version control, uncomment the next two lines:
+# models/*.pt
+# models/*.onnx
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# Secrets — never commit API keys or credentials
+*.env
+.env
+secrets.toml
+.streamlit/secrets.toml
+
+# Generated annotated media
+*_annotated.mp4
+*_annotated.avi

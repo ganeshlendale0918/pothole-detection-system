@@ -1,0 +1,4 @@
+size,GT,detected,missed,Recall_pct
+large,75,66,9,88.0
+medium,51,37,14,72.55
+small,61,41,20,67.21

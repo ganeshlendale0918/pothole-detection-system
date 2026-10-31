@@ -1,0 +1,4 @@
+Model,Images,GT,Predictions,TP,FP,FN,Crowded_GT,Crowded_missed,Isolated_missed,Precision_percent,Recall_percent,F1_percent
+YOLO11n_640,66,187,183,142,41,45,130,29,16,77.6,75.94,76.76
+YOLO11n_800,66,187,187,155,32,32,130,21,11,82.89,82.89,82.89
+YOLO11n_960,66,187,182,142,40,45,130,32,13,78.02,75.94,76.97

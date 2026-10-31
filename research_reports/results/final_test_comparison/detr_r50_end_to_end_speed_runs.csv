@@ -1,0 +1,4 @@
+Model,Run,Images,Total_predictions_at_low_threshold,Elapsed_seconds,Total_ms_per_image,Approx_FPS
+DETR_R50_fresh,1,67,6700,12.6399,188.655,5.3
+DETR_R50_fresh,2,67,6700,10.5206,157.024,6.37
+DETR_R50_fresh,3,67,6700,8.4581,126.24,7.92

@@ -1,0 +1,14 @@
+{
+  "project": "AI-Based Road Pothole Detection",
+  "main_model": "YOLO11n custom-trained checkpoint",
+  "checkpoint_source": "/content/drive/MyDrive/Colab_project_working/pothhole_project/experiments/A4_yolo11n_img800/weights/best.pt",
+  "inference_image_size": 800,
+  "class_names": [
+    "pothole"
+  ],
+  "default_confidence": 0.45,
+  "default_iou": 0.45,
+  "created_utc": "2026-10-13T17:13:38.858006+00:00",
+  "sample_images_copied": 8,
+  "warning": "Confirm checkpoint metrics from the corresponding saved evaluation reports. Do not treat validation metrics as independent test-set performance."
+}

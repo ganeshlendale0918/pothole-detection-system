@@ -1,0 +1,46 @@
+[
+  {
+    "Model":"YOLOv8n_640",
+    "Image_size":640.0,
+    "Parameters_M":3.011043,
+    "GFLOPs":8.1916928,
+    "Mean_latency_ms":33.552,
+    "Median_latency_ms":28.379,
+    "Mean_run_FPS":31.45,
+    "Peak_GPU_memory_MB":1766.36,
+    "Timing_method":"End-to-end Ultralytics predict; includes preprocessing and postprocessing"
+  },
+  {
+    "Model":"YOLO11n_640",
+    "Image_size":640.0,
+    "Parameters_M":2.590035,
+    "GFLOPs":6.499584,
+    "Mean_latency_ms":35.926,
+    "Median_latency_ms":37.808,
+    "Mean_run_FPS":28.53,
+    "Peak_GPU_memory_MB":1719.94,
+    "Timing_method":"End-to-end Ultralytics predict; includes preprocessing and postprocessing"
+  },
+  {
+    "Model":"YOLO11n_800",
+    "Image_size":800.0,
+    "Parameters_M":2.590035,
+    "GFLOPs":10.2096,
+    "Mean_latency_ms":34.704,
+    "Median_latency_ms":34.012,
+    "Mean_run_FPS":28.85,
+    "Peak_GPU_memory_MB":2809.32,
+    "Timing_method":"End-to-end Ultralytics predict; includes preprocessing and postprocessing"
+  },
+  {
+    "Model":"DETR_R50_fresh",
+    "Image_size":null,
+    "Parameters_M":41.501638,
+    "GFLOPs":null,
+    "Mean_latency_ms":157.306,
+    "Median_latency_ms":157.024,
+    "Mean_run_FPS":6.53,
+    "Peak_GPU_memory_MB":544.07,
+    "Timing_method":"Sequential batch-1 inference; includes PIL image loading, processor preprocessing, model forward pass, and box postprocessing"
+  }
+]

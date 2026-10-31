@@ -1,0 +1,32 @@
+[
+  {
+    "model": "YOLO11n_800",
+    "imgsz": 800,
+    "test_images": 67,
+    "precision": 0.865369000449748,
+    "recall": 0.6894409937888198,
+    "mAP50": 0.8108931070101362,
+    "mAP50_95": 0.5309359852265325,
+    "evaluation_dir": "/content/drive/MyDrive/Colab_project_working/pothhole_project/results/phase64_test_evaluation/YOLO11n_800"
+  },
+  {
+    "model": "YOLO11n_640",
+    "imgsz": 640,
+    "test_images": 67,
+    "precision": 0.8496145559843504,
+    "recall": 0.6667316524555655,
+    "mAP50": 0.7805271461143359,
+    "mAP50_95": 0.4930828637780472,
+    "evaluation_dir": "/content/drive/MyDrive/Colab_project_working/pothhole_project/results/phase64_test_evaluation/YOLO11n_640"
+  },
+  {
+    "model": "YOLOv8n_640",
+    "imgsz": 640,
+    "test_images": 67,
+    "precision": 0.7988460417230168,
+    "recall": 0.6660052667976473,
+    "mAP50": 0.7684021827571268,
+    "mAP50_95": 0.484403976874331,
+    "evaluation_dir": "/content/drive/MyDrive/Colab_project_working/pothhole_project/results/phase64_test_evaluation/YOLOv8n_640"
+  }
+]
