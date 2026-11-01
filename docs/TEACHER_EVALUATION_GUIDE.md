@@ -505,7 +505,7 @@ The following is a suggested route to demonstrate the most important features in
 
 | Step | Action | Time |
 |------|---------|------|
-| 1 | Open `http://localhost:8501`. Point to the Home page metric tiles and feature cards. | 0:30 |
+| 1 | Open **https://roadsight.streamlit.app/** in Chrome. If the app is sleeping, click "Wake up" and wait. Point to the Home page metric tiles and feature cards. | 0:30 |
 | 2 | Click **🔍 Live Detection** → **Demo Samples** tab. Select a sample image and click **▶ Run Demo Inference**. Show the side-by-side detection result and the detection table. | 1:00 |
 | 3 | Click the **Image Detection** tab. Upload a real road photograph. Lower the confidence slider to 0.30 and observe the result. Download the CSV. | 1:00 |
 | 4 | Click **🗺️ GIS Map**. If markers exist, show the map with popup. Otherwise, click Add Location, type a city name and coordinates, and save. Return to Map View to show the new marker. | 0:45 |
@@ -535,7 +535,7 @@ All detection records, location pins, repair tasks, and simulation scenarios are
 
 ### Hosting
 
-This submission runs **locally** on the student's computer. There is no remote hosting or live URL. The evaluator must start the application using the terminal commands in Section 2.
+The application is deployed publicly on **Streamlit Community Cloud** and is accessible at **https://roadsight.streamlit.app/** — no installation is required for evaluation. The source code and model weights are stored on **GitHub**, and Streamlit Cloud builds and serves the app directly from that repository. A local installation option is also available as a fallback (see Section 2, Option B).
 
 ---
 
@@ -566,16 +566,9 @@ This submission runs **locally** on the student's computer. There is no remote h
 
 ## 8. Contact
 
-For any questions about this project, please contact:
+For any questions about this project, please raise them directly during the evaluation session or send a written query through the college's official channel.
 
-| Field | Details |
-|---|---|
-| **Name** | [Your Full Name] |
-| **Class / Roll Number** | [Your Class and Roll Number] |
-| **Email** | [Your Email Address] |
-| **Subject Line** | RoadSight Platform — Evaluation Query |
-
-> Please use the subject line above when emailing, so your message is easy to identify.
+> **Subject Line to use:** RoadSight Platform — Evaluation Query
 
 ---
 
